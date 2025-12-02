@@ -1,0 +1,5 @@
+process
+operation
+progress
+course
+stage

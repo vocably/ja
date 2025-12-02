@@ -1,0 +1,5 @@
+contractor
+vendor
+supplier
+agent
+trader
