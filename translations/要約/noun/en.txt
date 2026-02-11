@@ -1,0 +1,6 @@
+summary
+abstract
+outline
+digest
+synopsis
+compendium

@@ -1,0 +1,5 @@
+breed
+cultivar
+strain
+variety
+type

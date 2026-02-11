@@ -1,0 +1,6 @@
+bag
+suitcase
+briefcase
+case
+holdall
+grip

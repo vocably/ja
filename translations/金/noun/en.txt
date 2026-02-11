@@ -1,0 +1,4 @@
+gold
+money
+metal
+gold general

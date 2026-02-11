@@ -1,0 +1,4 @@
+tiempo
+hora
+momento
+ocasión

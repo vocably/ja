@@ -1,0 +1,6 @@
+cargar
+recargar
+cargar la batería
+recargar la batería
+reponer fuerzas
+recuperar energía

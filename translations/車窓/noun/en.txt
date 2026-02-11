@@ -1,0 +1,5 @@
+car window
+train window
+vehicle window
+view from the train window
+view from the car window

@@ -1,0 +1,4 @@
+to reserve
+to book
+to make a reservation
+to make an appointment

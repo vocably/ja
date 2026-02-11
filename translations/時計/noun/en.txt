@@ -1,0 +1,5 @@
+clock
+watch
+timepiece
+chronometer
+timer

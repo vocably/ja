@@ -1,0 +1,3 @@
+tiempo
+hora
+período

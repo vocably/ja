@@ -1,0 +1,5 @@
+cover
+hide
+wrap
+conceal
+envelop

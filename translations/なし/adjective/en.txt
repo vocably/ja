@@ -1,0 +1,8 @@
+non-existent
+not existing
+missing
+absent
+lacking
+unavailable
+unrecognized
+unapproved

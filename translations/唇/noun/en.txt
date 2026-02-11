@@ -1,0 +1,4 @@
+lips
+mouth
+words
+utterance

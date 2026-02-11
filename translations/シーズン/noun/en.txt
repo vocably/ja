@@ -1,0 +1,4 @@
+season
+period
+spell
+term

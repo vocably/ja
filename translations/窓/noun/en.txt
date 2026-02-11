@@ -1,0 +1,5 @@
+window
+pane
+casement
+opening
+opportunity

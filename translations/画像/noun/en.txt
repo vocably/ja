@@ -1,0 +1,6 @@
+image
+picture
+figure
+portrait
+likeness
+representation

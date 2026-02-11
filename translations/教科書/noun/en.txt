@@ -1,0 +1,5 @@
+textbook
+schoolbook
+coursebook
+primer
+manual

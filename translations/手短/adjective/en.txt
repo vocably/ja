@@ -1,0 +1,5 @@
+brief
+short
+concise
+simple
+quick
