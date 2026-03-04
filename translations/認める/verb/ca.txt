@@ -1,0 +1,1 @@
+["acceptar","reconèixer","aprovar","confirmar"]

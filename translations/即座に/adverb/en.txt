@@ -1,4 +1,1 @@
-immediately
-instantly
-promptly
-at once
+["immediately","on the spot","instantly"]
