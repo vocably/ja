@@ -1,0 +1,4 @@
+drink
+take
+accept
+smoke

@@ -1,0 +1,5 @@
+piece
+cut
+cloth
+end
+sharpness

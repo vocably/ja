@@ -1,0 +1,3 @@
+Lehrer
+Arzt
+Meister

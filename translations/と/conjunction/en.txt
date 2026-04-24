@@ -1,0 +1,5 @@
+and
+with
+when
+if
+as

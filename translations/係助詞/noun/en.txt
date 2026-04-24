@@ -1,0 +1,3 @@
+binding particle
+adverbial particle
+conjunctive particle
