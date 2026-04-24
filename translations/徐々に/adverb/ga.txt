@@ -1,1 +1,3 @@
-["de réir a chéile","go mall","go céimneach"]
+de réir a chéile
+go mall
+go céimneach

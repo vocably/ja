@@ -1,1 +1,3 @@
-["reziliență","capacitate de recuperare","elasticitate"]
+reziliență
+capacitate de recuperare
+elasticitate

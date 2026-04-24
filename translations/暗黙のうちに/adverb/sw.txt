@@ -1,1 +1,3 @@
-["kwa kimya","kwa siri","bila kusema"]
+kwa kimya
+kwa siri
+bila kusema

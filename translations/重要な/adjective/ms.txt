@@ -1,1 +1,2 @@
-["penting","mustahak"]
+penting
+mustahak

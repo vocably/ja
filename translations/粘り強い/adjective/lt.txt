@@ -1,1 +1,2 @@
-["atkaklus","ištvermingas"]
+atkaklus
+ištvermingas

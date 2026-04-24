@@ -1,1 +1,3 @@
-["ofri","bay","sakrifye"]
+ofri
+bay
+sakrifye

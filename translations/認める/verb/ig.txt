@@ -1,1 +1,4 @@
-["kweta","nye ikike","ghọta","hụ"]
+kweta
+nye ikike
+ghọta
+hụ

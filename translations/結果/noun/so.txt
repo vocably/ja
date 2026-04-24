@@ -1,1 +1,2 @@
-["Natiijo","Mirro"]
+Natiijo
+Mirro

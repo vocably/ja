@@ -1,1 +1,3 @@
-["nang hindi sinasabi","nang walang salita","nang tahimik"]
+nang hindi sinasabi
+nang walang salita
+nang tahimik

@@ -1,1 +1,3 @@
-["menjëherë","tashmë","pa vonesë"]
+menjëherë
+tashmë
+pa vonesë

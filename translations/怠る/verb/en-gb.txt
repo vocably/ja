@@ -1,1 +1,3 @@
-["neglect","be negligent","be idle"]
+neglect
+be negligent
+be idle

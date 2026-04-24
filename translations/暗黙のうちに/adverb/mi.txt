@@ -1,1 +1,3 @@
-["puku","ngaro","huna"]
+puku
+ngaro
+huna

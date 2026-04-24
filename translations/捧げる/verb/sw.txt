@@ -1,1 +1,3 @@
-["kutoa","tambiko","sadaka"]
+kutoa
+tambiko
+sadaka

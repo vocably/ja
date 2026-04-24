@@ -1,1 +1,3 @@
-["offre","dedicà","dà"]
+offre
+dedicà
+dà

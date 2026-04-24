@@ -1,1 +1,2 @@
-["shqyrtoj","analizoj"]
+shqyrtoj
+analizoj

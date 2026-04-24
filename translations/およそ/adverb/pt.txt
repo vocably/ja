@@ -1,1 +1,3 @@
-["aproximadamente","cerca de","de jeito nenhum"]
+aproximadamente
+cerca de
+de jeito nenhum

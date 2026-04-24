@@ -1,1 +1,3 @@
-["bỏ bê","chểnh mảng","lơ là"]
+bỏ bê
+chểnh mảng
+lơ là

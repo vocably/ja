@@ -1,1 +1,3 @@
-["noin","yleensä","täysin"]
+noin
+yleensä
+täysin

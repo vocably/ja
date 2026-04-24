@@ -1,1 +1,2 @@
-["haklı çıkarmak","meşrulaştırmak"]
+haklı çıkarmak
+meşrulaştırmak

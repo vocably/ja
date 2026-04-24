@@ -1,1 +1,3 @@
-["sidomos","veçanërisht","në veçanti"]
+sidomos
+veçanërisht
+në veçanti

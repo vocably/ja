@@ -1,1 +1,3 @@
-["järkjärgult","tasapisi","aegamööda"]
+järkjärgult
+tasapisi
+aegamööda

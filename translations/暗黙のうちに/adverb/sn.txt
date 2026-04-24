@@ -1,1 +1,3 @@
-["chinyararire","mukati memoyo","pasina kutaura"]
+chinyararire
+mukati memoyo
+pasina kutaura

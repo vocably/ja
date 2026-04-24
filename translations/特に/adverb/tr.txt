@@ -1,1 +1,3 @@
-["özellikle","bilhassa","hele"]
+özellikle
+bilhassa
+hele

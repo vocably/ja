@@ -1,1 +1,3 @@
-["simba","kusimba","kusimbarara"]
+simba
+kusimba
+kusimbarara

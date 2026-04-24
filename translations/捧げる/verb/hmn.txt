@@ -1,1 +1,3 @@
-["muab","cob qhia","txi"]
+muab
+cob qhia
+txi

@@ -1,1 +1,3 @@
-["tədricən","yavaş-yavaş","getdikcə"]
+tədricən
+yavaş-yavaş
+getdikcə

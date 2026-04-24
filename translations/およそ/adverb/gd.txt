@@ -1,1 +1,3 @@
-["mu","timcheall","idir"]
+mu
+timcheall
+idir

@@ -1,1 +1,2 @@
-["sincerity","integrity"]
+sincerity
+integrity

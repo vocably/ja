@@ -1,1 +1,2 @@
-["slieksnis","robežvērtība"]
+slieksnis
+robežvērtība

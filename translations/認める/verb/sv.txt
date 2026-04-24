@@ -1,1 +1,4 @@
-["erkänna","godkänna","tillåta","bekräfta"]
+erkänna
+godkänna
+tillåta
+bekräfta

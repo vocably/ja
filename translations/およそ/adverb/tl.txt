@@ -1,1 +1,3 @@
-["mga","halos","humigit-kumulang"]
+mga
+halos
+humigit-kumulang

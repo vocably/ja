@@ -1,1 +1,3 @@
-["vanrækja","hirða ekki","vera latur"]
+vanrækja
+hirða ekki
+vera latur

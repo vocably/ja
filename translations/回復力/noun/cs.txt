@@ -1,1 +1,3 @@
-["odolnost","pružnost","zotavení"]
+odolnost
+pružnost
+zotavení

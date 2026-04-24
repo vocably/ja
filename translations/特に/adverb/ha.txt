@@ -1,1 +1,3 @@
-["musamman","fiye da kowa","na musamman"]
+musamman
+fiye da kowa
+na musamman

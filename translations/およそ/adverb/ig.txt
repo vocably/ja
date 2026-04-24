@@ -1,1 +1,3 @@
-["ihe dika","ihe ruru","n'ozuzu"]
+ihe dika
+ihe ruru
+n'ozuzu

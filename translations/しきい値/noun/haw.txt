@@ -1,1 +1,2 @@
-["palena","kūlana palena"]
+palena
+kūlana palena

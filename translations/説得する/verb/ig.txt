@@ -1,1 +1,2 @@
-["kwenye","kweye"]
+kwenye
+kweye

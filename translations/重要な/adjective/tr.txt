@@ -1,1 +1,2 @@
-["önemli","ciddi"]
+önemli
+ciddi

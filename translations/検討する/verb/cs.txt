@@ -1,1 +1,2 @@
-["zvážit","posoudit"]
+zvážit
+posoudit

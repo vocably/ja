@@ -1,1 +1,2 @@
-["hədd","astana"]
+hədd
+astana

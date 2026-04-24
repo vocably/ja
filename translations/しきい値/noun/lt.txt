@@ -1,1 +1,2 @@
-["slenkstis","ribinė vertė"]
+slenkstis
+ribinė vertė

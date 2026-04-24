@@ -1,1 +1,4 @@
-["acceptere","godkende","anerkende","bekræfte"]
+acceptere
+godkende
+anerkende
+bekræfte

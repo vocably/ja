@@ -1,1 +1,2 @@
-["prag","granična vrijednost"]
+prag
+granična vrijednost

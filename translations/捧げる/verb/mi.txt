@@ -1,1 +1,3 @@
-["whakahere","tuku","hoatu"]
+whakahere
+tuku
+hoatu

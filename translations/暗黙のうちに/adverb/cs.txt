@@ -1,1 +1,3 @@
-["mlčky","potichu","nepřímo"]
+mlčky
+potichu
+nepřímo

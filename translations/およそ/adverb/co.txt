@@ -1,1 +1,3 @@
-["circa","approssimativamente","in tuttu"]
+circa
+approssimativamente
+in tuttu

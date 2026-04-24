@@ -1,1 +1,2 @@
-["kuyemeza","kumvisha"]
+kuyemeza
+kumvisha

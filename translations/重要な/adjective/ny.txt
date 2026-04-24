@@ -1,1 +1,2 @@
-["chofunika","cholemera"]
+chofunika
+cholemera

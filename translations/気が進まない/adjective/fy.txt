@@ -1,1 +1,2 @@
-["net bot","net entûsjast"]
+net bot
+net entûsjast

@@ -1,1 +1,3 @@
-["Widderstandsfäegkeet","Elastizitéit","Resilienz"]
+Widderstandsfäegkeet
+Elastizitéit
+Resilienz

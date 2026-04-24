@@ -1,1 +1,2 @@
-["wpływ","efekt"]
+wpływ
+efekt

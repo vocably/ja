@@ -1,1 +1,3 @@
-["atsparumas","elastingumas","gyvybingumas"]
+atsparumas
+elastingumas
+gyvybingumas

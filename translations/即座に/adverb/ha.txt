@@ -1,1 +1,3 @@
-["nan take","lokaci daya","ba tare da bata lokaci ba"]
+nan take
+lokaci daya
+ba tare da bata lokaci ba

@@ -1,1 +1,2 @@
-["tasiri","kafa"]
+tasiri
+kafa

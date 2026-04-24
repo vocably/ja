@@ -1,1 +1,3 @@
-["cirka","omtrent","slet ikke"]
+cirka
+omtrent
+slet ikke

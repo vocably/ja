@@ -1,1 +1,3 @@
-["palautumiskyky","kimmoisuus","sinnikkyys"]
+palautumiskyky
+kimmoisuus
+sinnikkyys

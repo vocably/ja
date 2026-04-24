@@ -1,1 +1,3 @@
-["nglirwakake","sembrana","kesed"]
+nglirwakake
+sembrana
+kesed

@@ -1,1 +1,2 @@
-["nānā","noonoo"]
+nānā
+noonoo

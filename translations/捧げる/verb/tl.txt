@@ -1,1 +1,3 @@
-["ialay","ihandog","mag-alay"]
+ialay
+ihandog
+mag-alay

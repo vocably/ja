@@ -1,1 +1,3 @@
-["otpornost","elastičnost","oporavak"]
+otpornost
+elastičnost
+oporavak

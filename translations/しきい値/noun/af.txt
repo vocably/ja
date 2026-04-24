@@ -1,1 +1,2 @@
-["drempelwaarde","drumpel"]
+drempelwaarde
+drumpel

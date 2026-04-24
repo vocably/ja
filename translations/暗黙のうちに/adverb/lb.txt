@@ -1,1 +1,3 @@
-["stillschwéiegend","implizit","ongesot"]
+stillschwéiegend
+implizit
+ongesot

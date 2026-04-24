@@ -1,1 +1,3 @@
-["rimëkëmbje","elasticitet","rezistencë"]
+rimëkëmbje
+elasticitet
+rezistencë

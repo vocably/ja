@@ -1,1 +1,3 @@
-["yi kasala","sake","ƙi"]
+yi kasala
+sake
+ƙi

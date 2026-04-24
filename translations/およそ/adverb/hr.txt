@@ -1,1 +1,3 @@
-["otprilike","oko","uopće"]
+otprilike
+oko
+uopće

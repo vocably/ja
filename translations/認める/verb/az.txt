@@ -1,1 +1,4 @@
-["qəbul etmək","təsdiqləmək","icazə vermək","tanımaq"]
+qəbul etmək
+təsdiqləmək
+icazə vermək
+tanımaq

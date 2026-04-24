@@ -1,1 +1,3 @@
-["yn ddistaw","yn ddirgel","yn anuniongyrchol"]
+yn ddistaw
+yn ddirgel
+yn anuniongyrchol

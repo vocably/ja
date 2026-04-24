@@ -1,1 +1,2 @@
-["chosangalatsa","zokondweretsa"]
+chosangalatsa
+zokondweretsa

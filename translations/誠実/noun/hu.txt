@@ -1,1 +1,2 @@
-["őszinteség","becsületesség"]
+őszinteség
+becsületesség

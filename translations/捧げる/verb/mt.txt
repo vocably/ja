@@ -1,1 +1,3 @@
-["offri","iddedika","tagħti"]
+offri
+iddedika
+tagħti

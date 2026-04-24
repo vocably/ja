@@ -1,1 +1,2 @@
-["ihardnakket","utholdende"]
+ihardnakket
+utholdende

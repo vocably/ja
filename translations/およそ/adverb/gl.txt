@@ -1,1 +1,3 @@
-["aproximadamente","cerca de","en absoluto"]
+aproximadamente
+cerca de
+en absoluto

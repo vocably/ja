@@ -1,1 +1,2 @@
-["mai-hankali","mai-tunanin-gaba"]
+mai-hankali
+mai-tunanin-gaba

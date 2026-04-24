@@ -1,1 +1,3 @@
-["ka ho sa tobang","ka mokhoa o sa tobang","ka ho patella"]
+ka ho sa tobang
+ka mokhoa o sa tobang
+ka ho patella

@@ -1,1 +1,3 @@
-["gwytnwyrth","adferiad","ystwythder"]
+gwytnwyrth
+adferiad
+ystwythder

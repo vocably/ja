@@ -1,1 +1,3 @@
-["taastumisvõime","vastupidavus","elastsus"]
+taastumisvõime
+vastupidavus
+elastsus

@@ -1,1 +1,2 @@
-["enpòtan","grav"]
+enpòtan
+grav

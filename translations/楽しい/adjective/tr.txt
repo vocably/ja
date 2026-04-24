@@ -1,1 +1,2 @@
-["eğlenceli","keyifli"]
+eğlenceli
+keyifli

@@ -1,1 +1,3 @@
-["daya pulih","kapasitas kanggo waras","elastisitas"]
+daya pulih
+kapasitas kanggo waras
+elastisitas

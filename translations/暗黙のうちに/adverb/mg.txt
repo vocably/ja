@@ -1,1 +1,3 @@
-["amin'ny fahanginana","tsy misy teny","amin'ny ankolafy"]
+amin'ny fahanginana
+tsy misy teny
+amin'ny ankolafy

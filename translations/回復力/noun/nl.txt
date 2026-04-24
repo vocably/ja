@@ -1,1 +1,3 @@
-["veerkracht","herstelvermogen","resistentie"]
+veerkracht
+herstelvermogen
+resistentie

@@ -1,1 +1,3 @@
-["trascurare","negligere","essere pigro"]
+trascurare
+negligere
+essere pigro

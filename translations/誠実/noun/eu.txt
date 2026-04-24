@@ -1,1 +1,2 @@
-["zintzotasun","sinesgarritasun"]
+zintzotasun
+sinesgarritasun

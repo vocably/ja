@@ -1,1 +1,2 @@
-["koʻikoʻi","mea nui"]
+koʻikoʻi
+mea nui

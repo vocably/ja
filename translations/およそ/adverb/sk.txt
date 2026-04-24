@@ -1,1 +1,3 @@
-["približne","asi","vôbec"]
+približne
+asi
+vôbec

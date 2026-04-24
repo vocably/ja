@@ -1,1 +1,2 @@
-["araşdırmaq","nəzərdən keçirmək"]
+araşdırmaq
+nəzərdən keçirmək

@@ -1,1 +1,3 @@
-["nêzîkî","bi qasî","qet"]
+nêzîkî
+bi qasî
+qet

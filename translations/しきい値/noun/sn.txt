@@ -1,1 +1,2 @@
-["chikumbaridzo","muganho"]
+chikumbaridzo
+muganho

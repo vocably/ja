@@ -1,1 +1,2 @@
-["net es wëllen","net Loscht hunn"]
+net es wëllen
+net Loscht hunn

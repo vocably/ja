@@ -1,1 +1,3 @@
-["ngokungasho lutho","ngokuthula","ngokungaqondile"]
+ngokungasho lutho
+ngokuthula
+ngokungaqondile

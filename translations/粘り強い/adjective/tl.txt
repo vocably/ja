@@ -1,1 +1,2 @@
-["matiyaga","mapagtiis"]
+matiyaga
+mapagtiis

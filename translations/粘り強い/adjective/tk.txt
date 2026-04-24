@@ -1,1 +1,2 @@
-["tutukly","erjellik"]
+tutukly
+erjellik

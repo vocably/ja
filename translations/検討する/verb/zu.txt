@@ -1,1 +1,2 @@
-["ukucubungula","ukuhlola"]
+ukucubungula
+ukuhlola

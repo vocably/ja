@@ -1,1 +1,2 @@
-["pag-aralan","suriin"]
+pag-aralan
+suriin

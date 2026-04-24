@@ -1,1 +1,3 @@
-["opfere","wije","oerbringe"]
+opfere
+wije
+oerbringe

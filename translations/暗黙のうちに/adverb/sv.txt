@@ -1,1 +1,3 @@
-["underförstått","tyst","implicit"]
+underförstått
+tyst
+implicit

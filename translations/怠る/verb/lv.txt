@@ -1,1 +1,3 @@
-["palaist garām","neievērot","būt slinkam"]
+palaist garām
+neievērot
+būt slinkam

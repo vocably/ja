@@ -1,1 +1,3 @@
-["milcząco","po cichu","pośrednio"]
+milcząco
+po cichu
+pośrednio

@@ -1,1 +1,3 @@
-["Kuregeredza","Kusaita basa","Kusateerera"]
+Kuregeredza
+Kusaita basa
+Kusateerera

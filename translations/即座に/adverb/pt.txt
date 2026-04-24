@@ -1,1 +1,3 @@
-["imediatamente","na hora","instantaneamente"]
+imediatamente
+na hora
+instantaneamente

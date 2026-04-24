@@ -1,1 +1,3 @@
-["tikras pa tikras","piti piti","tou dousman"]
+tikras pa tikras
+piti piti
+tou dousman

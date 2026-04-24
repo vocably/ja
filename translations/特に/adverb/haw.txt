@@ -1,1 +1,3 @@
-["ʻoi loa","kūikawā","ʻokoʻa"]
+ʻoi loa
+kūikawā
+ʻokoʻa

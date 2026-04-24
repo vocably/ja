@@ -1,1 +1,3 @@
-["seigla","viðnám","fjöður"]
+seigla
+viðnám
+fjöður

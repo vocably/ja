@@ -1,1 +1,3 @@
-["soo kabasho","adkaysi","dabacsanaan"]
+soo kabasho
+adkaysi
+dabacsanaan

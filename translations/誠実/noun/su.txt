@@ -1,1 +1,2 @@
-["jujur","satya"]
+jujur
+satya

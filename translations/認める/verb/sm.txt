@@ -1,1 +1,4 @@
-["talia","faʻamaonia","faʻataga","iloa"]
+talia
+faʻamaonia
+faʻataga
+iloa

@@ -1,1 +1,4 @@
-["yarda","amince","gane","tabbatar"]
+yarda
+amince
+gane
+tabbatar

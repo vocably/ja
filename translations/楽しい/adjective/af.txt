@@ -1,1 +1,2 @@
-["gelukkig","bly"]
+gelukkig
+bly

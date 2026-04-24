@@ -1,1 +1,3 @@
-["immediately","on the spot","instantly"]
+immediately
+on the spot
+instantly

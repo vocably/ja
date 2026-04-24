@@ -1,1 +1,3 @@
-["trascurà","mancà","esse pigru"]
+trascurà
+mancà
+esse pigru

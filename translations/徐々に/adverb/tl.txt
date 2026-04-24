@@ -1,1 +1,3 @@
-["Unti-unti","Paunti-unti","Dahan-dahan"]
+Unti-unti
+Paunti-unti
+Dahan-dahan

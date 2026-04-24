@@ -1,1 +1,4 @@
-["talitte","goedkarre","befêstigje","erkennen"]
+talitte
+goedkarre
+befêstigje
+erkennen

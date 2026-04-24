@@ -1,1 +1,2 @@
-["drempelwaarde","grenswaarde"]
+drempelwaarde
+grenswaarde

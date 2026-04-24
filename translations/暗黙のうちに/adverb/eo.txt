@@ -1,1 +1,3 @@
-["silente","tacite","senvorte"]
+silente
+tacite
+senvorte

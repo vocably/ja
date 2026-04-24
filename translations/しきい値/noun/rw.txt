@@ -1,1 +1,2 @@
-["igipimo ntarengwa","umubare ntarengwa"]
+igipimo ntarengwa
+umubare ntarengwa

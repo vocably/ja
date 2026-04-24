@@ -1,1 +1,2 @@
-["Bihagije","Cyane"]
+Bihagije
+Cyane

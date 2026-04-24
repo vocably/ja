@@ -1,1 +1,2 @@
-["Persevering","Tenacious"]
+Persevering
+Tenacious

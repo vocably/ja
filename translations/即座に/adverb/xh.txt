@@ -1,1 +1,3 @@
-["ngokukhawuleza","kwangoko","ngokukhawuleza okukhulu"]
+ngokukhawuleza
+kwangoko
+ngokukhawuleza okukhulu

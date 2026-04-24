@@ -1,1 +1,3 @@
-["kancane kancane","ngokwesikhathi","ngezinga elithile"]
+kancane kancane
+ngokwesikhathi
+ngezinga elithile

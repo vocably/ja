@@ -1,1 +1,3 @@
-["amandla okubuyela","ukuchacha","ukubuya kwimeko"]
+amandla okubuyela
+ukuchacha
+ukubuya kwimeko

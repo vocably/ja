@@ -1,1 +1,2 @@
-["ho buisana","ho susumetsa"]
+ho buisana
+ho susumetsa

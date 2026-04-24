@@ -1,1 +1,3 @@
-["aproximadament","gairebé","gens"]
+aproximadament
+gairebé
+gens

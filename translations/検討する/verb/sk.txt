@@ -1,1 +1,2 @@
-["zvážiť","preskúmať"]
+zvážiť
+preskúmať

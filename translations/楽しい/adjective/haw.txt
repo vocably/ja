@@ -1,1 +1,2 @@
-["ʻoliʻoli","hauʻoli"]
+ʻoliʻoli
+hauʻoli

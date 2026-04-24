@@ -1,1 +1,2 @@
-["kakaretso","phara-phara"]
+kakaretso
+phara-phara

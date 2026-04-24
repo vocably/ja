@@ -1,1 +1,3 @@
-["Mu buryo butaziguye","Mu ibanga","Mu mutuzo"]
+Mu buryo butaziguye
+Mu ibanga
+Mu mutuzo

@@ -1,1 +1,3 @@
-["försumma","slarva","lata sig"]
+försumma
+slarva
+lata sig

@@ -1,1 +1,2 @@
-["zava-dehibe","manan-danja"]
+zava-dehibe
+manan-danja

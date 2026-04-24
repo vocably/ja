@@ -1,1 +1,3 @@
-["adamak","sunmak","ithaf etmek"]
+adamak
+sunmak
+ithaf etmek

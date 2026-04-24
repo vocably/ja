@@ -1,1 +1,3 @@
-["dikeldiş","gowulaşma","durmuşa gaýtaryş"]
+dikeldiş
+gowulaşma
+durmuşa gaýtaryş

@@ -1,1 +1,2 @@
-["linksmas","smagus"]
+linksmas
+smagus

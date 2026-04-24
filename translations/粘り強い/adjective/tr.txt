@@ -1,1 +1,2 @@
-["azim","inatçı"]
+azim
+inatçı

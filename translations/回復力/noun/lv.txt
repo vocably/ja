@@ -1,1 +1,3 @@
-["atjaunošanās spējas","elastība","reģenerācija"]
+atjaunošanās spējas
+elastība
+reģenerācija

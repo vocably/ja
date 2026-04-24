@@ -1,1 +1,2 @@
-["ka ho lekaneng","hape"]
+ka ho lekaneng
+hape

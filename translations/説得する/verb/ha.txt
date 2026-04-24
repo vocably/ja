@@ -1,1 +1,2 @@
-["shawo kan wani","lallaba wani"]
+shawo kan wani
+lallaba wani

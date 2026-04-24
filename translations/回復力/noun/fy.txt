@@ -1,1 +1,3 @@
-["fearkrêft","fearigens","elastisiteit"]
+fearkrêft
+fearigens
+elastisiteit

@@ -1,1 +1,3 @@
-["nyefe","inye","ichu aja"]
+nyefe
+inye
+ichu aja

@@ -1,1 +1,3 @@
-["secara bertahap","perlahan-lahan","sedikit demi sedikit"]
+secara bertahap
+perlahan-lahan
+sedikit demi sedikit

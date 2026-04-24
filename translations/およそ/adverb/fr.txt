@@ -1,1 +1,3 @@
-["environ","à peu près","absolument"]
+environ
+à peu près
+absolument

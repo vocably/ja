@@ -1,1 +1,3 @@
-["apeprè","anviwon","ditou"]
+apeprè
+anviwon
+ditou

@@ -1,1 +1,3 @@
-["faapitoa","ae maise","sili"]
+faapitoa
+ae maise
+sili

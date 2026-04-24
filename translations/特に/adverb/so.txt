@@ -1,1 +1,3 @@
-["gaar ahaan","si gaar ah","khaasatan"]
+gaar ahaan
+si gaar ah
+khaasatan

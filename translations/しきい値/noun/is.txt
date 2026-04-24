@@ -1,1 +1,2 @@
-["þröskuldur","viðmiðunargildi"]
+þröskuldur
+viðmiðunargildi

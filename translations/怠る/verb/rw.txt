@@ -1,1 +1,3 @@
-["Kwirengagiza","Kudakora","Kunanirwa"]
+Kwirengagiza
+Kudakora
+Kunanirwa

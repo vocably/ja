@@ -1,1 +1,2 @@
-["wichteg","ernst"]
+wichteg
+ernst

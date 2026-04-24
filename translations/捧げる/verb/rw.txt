@@ -1,1 +1,3 @@
-["gutura","gushyira hejuru","kwitanga"]
+gutura
+gushyira hejuru
+kwitanga

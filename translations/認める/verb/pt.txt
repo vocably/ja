@@ -1,1 +1,4 @@
-["aceitar","reconhecer","admitir","aprovar"]
+aceitar
+reconhecer
+admitir
+aprovar

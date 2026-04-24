@@ -1,1 +1,2 @@
-["magpabaya","mapabayaan"]
+magpabaya
+mapabayaan

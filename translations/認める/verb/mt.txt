@@ -1,1 +1,4 @@
-["jaċċetta","jirrikonoxxi","japprova","jivverifika"]
+jaċċetta
+jirrikonoxxi
+japprova
+jivverifika

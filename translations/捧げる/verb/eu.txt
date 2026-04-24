@@ -1,1 +1,3 @@
-["eskaini","opatu","goratu"]
+eskaini
+opatu
+goratu

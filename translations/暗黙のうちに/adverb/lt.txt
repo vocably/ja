@@ -1,1 +1,3 @@
-["tyliai","nutylomis","netiesiogiai"]
+tyliai
+nutylomis
+netiesiogiai

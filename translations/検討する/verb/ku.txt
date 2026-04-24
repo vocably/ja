@@ -1,1 +1,2 @@
-["lêkolîn kirin","nirxandin"]
+lêkolîn kirin
+nirxandin

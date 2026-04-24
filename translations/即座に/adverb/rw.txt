@@ -1,1 +1,3 @@
-["Ako kanya","Ako na ako","Ako uwo mwanya"]
+Ako kanya
+Ako na ako
+Ako uwo mwanya

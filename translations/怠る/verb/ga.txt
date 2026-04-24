@@ -1,1 +1,3 @@
-["failligh","déan faillí","lig i bhfaillí"]
+failligh
+déan faillí
+lig i bhfaillí

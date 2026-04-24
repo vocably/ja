@@ -1,1 +1,2 @@
-["nuoširdumas","sąžiningumas"]
+nuoširdumas
+sąžiningumas

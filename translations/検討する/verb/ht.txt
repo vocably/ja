@@ -1,1 +1,2 @@
-["egzamine","konsidere"]
+egzamine
+konsidere

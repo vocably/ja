@@ -1,1 +1,2 @@
-["dostatočne","úplne"]
+dostatočne
+úplne

@@ -1,1 +1,3 @@
-["an silans","san di yon mo","endirekteman"]
+an silans
+san di yon mo
+endirekteman

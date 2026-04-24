@@ -1,1 +1,3 @@
-["manolotra","mitolotra","mampiseho"]
+manolotra
+mitolotra
+mampiseho

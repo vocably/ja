@@ -1,1 +1,3 @@
-["makamaka","koposa","kwambiri"]
+makamaka
+koposa
+kwambiri

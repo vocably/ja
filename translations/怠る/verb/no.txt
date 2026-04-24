@@ -1,1 +1,3 @@
-["forsømme","unnlate","sluntre unna"]
+forsømme
+unnlate
+sluntre unna

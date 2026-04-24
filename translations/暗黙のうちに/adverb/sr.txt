@@ -1,1 +1,3 @@
-["prećutno","implicitno","ćutke"]
+prećutno
+implicitno
+ćutke

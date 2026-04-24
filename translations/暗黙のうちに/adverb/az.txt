@@ -1,1 +1,3 @@
-["üstüörtülü şəkildə","sözsüz","dolayı yolla"]
+üstüörtülü şəkildə
+sözsüz
+dolayı yolla

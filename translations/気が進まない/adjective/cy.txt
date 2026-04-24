@@ -1,1 +1,2 @@
-["amharus","drwgdeimlad"]
+amharus
+drwgdeimlad

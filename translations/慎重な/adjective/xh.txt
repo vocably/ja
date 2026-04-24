@@ -1,1 +1,2 @@
-["isilumko","olumkileyo"]
+isilumko
+olumkileyo

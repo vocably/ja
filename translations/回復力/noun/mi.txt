@@ -1,1 +1,3 @@
-["whakaora","whakaoranga","whakaoraora"]
+whakaora
+whakaoranga
+whakaoraora

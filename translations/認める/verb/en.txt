@@ -1,1 +1,4 @@
-["to recognize","to admit","to approve","to observe"]
+to recognize
+to admit
+to approve
+to observe

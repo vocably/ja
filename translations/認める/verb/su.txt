@@ -1,1 +1,4 @@
-["ngaku","nampa","nyatujuan","ningali"]
+ngaku
+nampa
+nyatujuan
+ningali

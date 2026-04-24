@@ -1,1 +1,2 @@
-["gogorik ez izan","gogoz kontra"]
+gogorik ez izan
+gogoz kontra

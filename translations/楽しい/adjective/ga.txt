@@ -1,1 +1,2 @@
-["sásta","sona"]
+sásta
+sona

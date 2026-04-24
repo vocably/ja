@@ -1,1 +1,2 @@
-["hərtərəfli","geniş"]
+hərtərəfli
+geniş

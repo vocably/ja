@@ -1,1 +1,2 @@
-["apspriest","izskatīt"]
+apspriest
+izskatīt

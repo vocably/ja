@@ -1,1 +1,2 @@
-["tábhachtach","trom"]
+tábhachtach
+trom

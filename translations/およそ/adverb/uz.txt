@@ -1,1 +1,3 @@
-["taxminan","deyarli","umuman"]
+taxminan
+deyarli
+umuman

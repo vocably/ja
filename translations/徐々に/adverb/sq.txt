@@ -1,1 +1,3 @@
-["gradualisht","dalëngadalë","pak nga pak"]
+gradualisht
+dalëngadalë
+pak nga pak

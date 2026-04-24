@@ -1,1 +1,3 @@
-["fahasitranana","fahaterahana","fahasalamana"]
+fahasitranana
+fahaterahana
+fahasalamana

@@ -1,1 +1,3 @@
-["ellenállóképesség","rugalmasság","regenerálódás"]
+ellenállóképesség
+rugalmasság
+regenerálódás

@@ -1,1 +1,2 @@
-["sjov","fornøjelig"]
+sjov
+fornøjelig

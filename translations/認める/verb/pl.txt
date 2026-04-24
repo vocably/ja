@@ -1,1 +1,4 @@
-["uznawać","przyjmować","aprobować","dostrzegać"]
+uznawać
+przyjmować
+aprobować
+dostrzegać

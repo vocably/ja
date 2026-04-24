@@ -1,1 +1,2 @@
-["razmotriti","proučiti"]
+razmotriti
+proučiti

@@ -1,1 +1,3 @@
-["hooletusse jätma","laisklema","mitte tähele panema"]
+hooletusse jätma
+laisklema
+mitte tähele panema

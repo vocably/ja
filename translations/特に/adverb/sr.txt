@@ -1,1 +1,3 @@
-["naročito","posebno","izuzetno"]
+naročito
+posebno
+izuzetno

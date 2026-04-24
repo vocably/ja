@@ -1,1 +1,2 @@
-["horéam","ngoplok"]
+horéam
+ngoplok

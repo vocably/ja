@@ -1,1 +1,3 @@
-["elhanyagol","nem tesz meg","lustálkodik"]
+elhanyagol
+nem tesz meg
+lustálkodik

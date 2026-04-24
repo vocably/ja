@@ -1,1 +1,3 @@
-["ofre","hellige","vie"]
+ofre
+hellige
+vie

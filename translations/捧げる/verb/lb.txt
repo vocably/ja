@@ -1,1 +1,3 @@
-["offréieren","weien","opferen"]
+offréieren
+weien
+opferen

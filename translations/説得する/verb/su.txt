@@ -1,1 +1,2 @@
-["ngabujuk","ngolo-ngolo"]
+ngabujuk
+ngolo-ngolo

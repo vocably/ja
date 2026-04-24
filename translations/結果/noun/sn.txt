@@ -1,1 +1,2 @@
-["mhedzisiro","mugumo"]
+mhedzisiro
+mugumo

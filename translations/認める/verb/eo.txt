@@ -1,1 +1,4 @@
-["agnoski","aprobi","permesi","konfirmi"]
+agnoski
+aprobi
+permesi
+konfirmi

@@ -1,1 +1,2 @@
-["nespreman","nevoljan"]
+nespreman
+nevoljan

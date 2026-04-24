@@ -1,1 +1,3 @@
-["óbeint","þegjandi","óumbeðið"]
+óbeint
+þegjandi
+óumbeðið

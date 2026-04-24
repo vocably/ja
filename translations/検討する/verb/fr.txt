@@ -1,1 +1,2 @@
-["examiner","étudier"]
+examiner
+étudier

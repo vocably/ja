@@ -1,1 +1,2 @@
-["gaskiya","aminci"]
+gaskiya
+aminci

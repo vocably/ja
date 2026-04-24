@@ -1,1 +1,3 @@
-["umbes","ligikaudu","üldjoontes"]
+umbes
+ligikaudu
+üldjoontes

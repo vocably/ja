@@ -1,1 +1,2 @@
-["overwegen","bestuderen"]
+overwegen
+bestuderen

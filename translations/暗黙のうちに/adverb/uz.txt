@@ -1,1 +1,3 @@
-["jim","indam","yashirincha"]
+jim
+indam
+yashirincha

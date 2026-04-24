@@ -1,1 +1,2 @@
-["marinka","xadka"]
+marinka
+xadka

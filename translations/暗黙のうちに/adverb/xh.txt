@@ -1,1 +1,3 @@
-["ngokungathethiyo","ngokungqalileyo","ngokungachazwanga"]
+ngokungathethiyo
+ngokungqalileyo
+ngokungachazwanga

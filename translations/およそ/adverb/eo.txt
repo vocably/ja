@@ -1,1 +1,3 @@
-["proksimume","ĉirkaŭ","tute"]
+proksimume
+ĉirkaŭ
+tute

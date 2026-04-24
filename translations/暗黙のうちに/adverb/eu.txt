@@ -1,1 +1,3 @@
-["ezkutuan","isilka","zeharka"]
+ezkutuan
+isilka
+zeharka

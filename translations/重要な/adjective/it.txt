@@ -1,1 +1,2 @@
-["importante","serio"]
+importante
+serio

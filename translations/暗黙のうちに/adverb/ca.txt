@@ -1,1 +1,4 @@
-["t\nàcitament","implícitament","sense dir res"]
+t
+àcitament
+implícitament
+sense dir res

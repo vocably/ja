@@ -1,1 +1,2 @@
-["distractiv","amuzant"]
+distractiv
+amuzant

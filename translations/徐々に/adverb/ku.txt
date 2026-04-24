@@ -1,1 +1,3 @@
-["hêdî hêdî","gav bi gav","kêm kêm"]
+hêdî hêdî
+gav bi gav
+kêm kêm

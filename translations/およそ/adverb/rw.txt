@@ -1,1 +1,3 @@
-["hafi","muri rusange","na gato"]
+hafi
+muri rusange
+na gato

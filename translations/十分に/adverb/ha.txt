@@ -1,1 +1,2 @@
-["sosai","da kyau"]
+sosai
+da kyau

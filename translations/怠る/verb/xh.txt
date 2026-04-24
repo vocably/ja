@@ -1,1 +1,3 @@
-["ukunganaki","ukudebesha","ukungakhathali"]
+ukunganaki
+ukudebesha
+ukungakhathali

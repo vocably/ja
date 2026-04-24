@@ -1,1 +1,3 @@
-["Gradualmente","Aos poucos","Paulatinamente"]
+Gradualmente
+Aos poucos
+Paulatinamente

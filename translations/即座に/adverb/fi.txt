@@ -1,1 +1,3 @@
-["välittömästi","heti","oitis"]
+välittömästi
+heti
+oitis

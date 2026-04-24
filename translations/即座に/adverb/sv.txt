@@ -1,1 +1,3 @@
-["omedelbart","genast","på stående fot"]
+omedelbart
+genast
+på stående fot

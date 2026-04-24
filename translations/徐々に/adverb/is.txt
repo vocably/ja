@@ -1,1 +1,3 @@
-["smám saman","hægt og rólega","jafnt og þétt"]
+smám saman
+hægt og rólega
+jafnt og þétt

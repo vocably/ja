@@ -1,1 +1,3 @@
-["thoir seachad","tabhair seachad","toirt seachad"]
+thoir seachad
+tabhair seachad
+toirt seachad

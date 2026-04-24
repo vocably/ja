@@ -1,1 +1,2 @@
-["dovoljno","sasvim"]
+dovoljno
+sasvim

@@ -1,1 +1,4 @@
-["uznať","pripustiť","schváliť","potvrdiť"]
+uznať
+pripustiť
+schváliť
+potvrdiť

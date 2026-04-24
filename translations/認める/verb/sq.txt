@@ -1,1 +1,4 @@
-["pranoj","njoh","miratoj","konfirmoj"]
+pranoj
+njoh
+miratoj
+konfirmoj

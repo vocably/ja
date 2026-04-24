@@ -1,1 +1,2 @@
-["Taxaddar","Digtooni"]
+Taxaddar
+Digtooni

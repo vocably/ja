@@ -1,1 +1,3 @@
-["stille","implisitt","underforstått"]
+stille
+implisitt
+underforstått

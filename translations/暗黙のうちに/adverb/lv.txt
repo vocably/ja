@@ -1,1 +1,3 @@
-["netieši","klusi","zemtekstā"]
+netieši
+klusi
+zemtekstā

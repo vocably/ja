@@ -1,1 +1,2 @@
-["igisubizo","umusaruro"]
+igisubizo
+umusaruro

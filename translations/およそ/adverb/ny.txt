@@ -1,1 +1,3 @@
-["pafupifupi","ngati","ndithu"]
+pafupifupi
+ngati
+ndithu

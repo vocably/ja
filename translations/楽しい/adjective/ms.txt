@@ -1,1 +1,2 @@
-["gembira","seronok"]
+gembira
+seronok

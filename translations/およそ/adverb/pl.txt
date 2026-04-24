@@ -1,1 +1,3 @@
-["około","mniej więcej","wcale"]
+około
+mniej więcej
+wcale

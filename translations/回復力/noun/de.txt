@@ -1,1 +1,3 @@
-["Widerstandsfähigkeit","Belastbarkeit","Elastizität"]
+Widerstandsfähigkeit
+Belastbarkeit
+Elastizität

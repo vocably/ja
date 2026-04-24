@@ -1,1 +1,2 @@
-["sincerità","onestà"]
+sincerità
+onestà

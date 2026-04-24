@@ -1,1 +1,4 @@
-["elismer","elfogad","jóváhagy","felismer"]
+elismer
+elfogad
+jóváhagy
+felismer

@@ -1,1 +1,2 @@
-["kesan","pengaruh"]
+kesan
+pengaruh

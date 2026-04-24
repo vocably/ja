@@ -1,1 +1,3 @@
-["kwv yees","ze li","txog"]
+kwv yees
+ze li
+txog

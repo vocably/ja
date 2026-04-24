@@ -1,1 +1,3 @@
-["kanthi meneng","kanthi implisit","tanpa ngucap"]
+kanthi meneng
+kanthi implisit
+tanpa ngucap

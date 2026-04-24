@@ -1,1 +1,3 @@
-["eo ho","tokony ho","amin'ny ankapobeny"]
+eo ho
+tokony ho
+amin'ny ankapobeny

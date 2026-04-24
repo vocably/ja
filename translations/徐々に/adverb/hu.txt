@@ -1,1 +1,3 @@
-["fokozatosan","lassan","szép lassan"]
+fokozatosan
+lassan
+szép lassan

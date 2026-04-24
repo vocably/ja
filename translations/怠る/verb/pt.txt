@@ -1,1 +1,3 @@
-["negligenciar","desleixar","relaxar"]
+negligenciar
+desleixar
+relaxar

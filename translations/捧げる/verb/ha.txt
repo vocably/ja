@@ -1,1 +1,3 @@
-["miƙa","ba da","sadaukar"]
+miƙa
+ba da
+sadaukar

@@ -1,1 +1,2 @@
-["gu leòr","gu mòr"]
+gu leòr
+gu mòr

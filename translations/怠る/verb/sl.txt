@@ -1,1 +1,3 @@
-["zanemarjati","opustiti","lenariti"]
+zanemarjati
+opustiti
+lenariti

@@ -1,1 +1,3 @@
-["secara tersirat","secara tidak langsung","secara diam-diam"]
+secara tersirat
+secara tidak langsung
+secara diam-diam

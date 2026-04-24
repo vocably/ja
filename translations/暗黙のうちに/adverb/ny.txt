@@ -1,1 +1,3 @@
-["Mwachinsinsi","Mwachibisa","Mosaneneka"]
+Mwachinsinsi
+Mwachibisa
+Mosaneneka

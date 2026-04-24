@@ -1,1 +1,2 @@
-["bosaga","çäk"]
+bosaga
+çäk

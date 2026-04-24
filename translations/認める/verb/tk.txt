@@ -1,1 +1,4 @@
-["kabul etmek","tassyk etmek","rugsat bermek","görmek"]
+kabul etmek
+tassyk etmek
+rugsat bermek
+görmek

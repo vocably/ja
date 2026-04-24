@@ -1,1 +1,3 @@
-["offeren","wijden","opdragen"]
+offeren
+wijden
+opdragen

@@ -1,1 +1,2 @@
-["zabavno","ugodno"]
+zabavno
+ugodno

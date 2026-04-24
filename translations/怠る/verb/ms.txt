@@ -1,1 +1,3 @@
-["mengabaikan","lalai","cuai"]
+mengabaikan
+lalai
+cuai

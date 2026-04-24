@@ -1,1 +1,3 @@
-["hang-hang","ka ho toba","ka nako e tšoanang"]
+hang-hang
+ka ho toba
+ka nako e tšoanang

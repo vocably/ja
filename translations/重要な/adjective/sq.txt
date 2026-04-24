@@ -1,1 +1,2 @@
-["i rëndësishëm","themelor"]
+i rëndësishëm
+themelor

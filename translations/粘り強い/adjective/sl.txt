@@ -1,1 +1,2 @@
-["vzdržen","trdoživ"]
+vzdržen
+trdoživ

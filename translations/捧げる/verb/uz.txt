@@ -1,1 +1,3 @@
-["bag'ishlamoq","qurbon qilmoq","tortiq qilmoq"]
+bag'ishlamoq
+qurbon qilmoq
+tortiq qilmoq

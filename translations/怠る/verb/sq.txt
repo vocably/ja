@@ -1,1 +1,3 @@
-["neglijo","lë pas dore","jam i pakujdesshëm"]
+neglijo
+lë pas dore
+jam i pakujdesshëm

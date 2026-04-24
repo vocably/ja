@@ -1,1 +1,2 @@
-["hoʻopili","hopena"]
+hoʻopili
+hopena

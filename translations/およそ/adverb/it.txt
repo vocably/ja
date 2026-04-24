@@ -1,1 +1,3 @@
-["circa","all'incirca","approssimativamente"]
+circa
+all'incirca
+approssimativamente

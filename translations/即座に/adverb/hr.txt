@@ -1,1 +1,3 @@
-["odmah","smjesta","bez odlaganja"]
+odmah
+smjesta
+bez odlaganja

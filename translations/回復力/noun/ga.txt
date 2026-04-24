@@ -1,1 +1,3 @@
-["teacht aniar","seasmhacht","athléimneacht"]
+teacht aniar
+seasmhacht
+athléimneacht

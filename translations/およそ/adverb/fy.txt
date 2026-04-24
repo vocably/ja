@@ -1,1 +1,3 @@
-["sawat","rûchwei","hielendal"]
+sawat
+rûchwei
+hielendal

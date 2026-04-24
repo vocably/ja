@@ -1,1 +1,2 @@
-["lonwabo","mnandi"]
+lonwabo
+mnandi

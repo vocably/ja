@@ -1,1 +1,4 @@
-["mengakui","menyetujui","mengizinkan","melihat"]
+mengakui
+menyetujui
+mengizinkan
+melihat

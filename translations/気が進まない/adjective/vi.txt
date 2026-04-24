@@ -1,1 +1,2 @@
-["Không sẵn lòng","Miễn cưỡng"]
+Không sẵn lòng
+Miễn cưỡng

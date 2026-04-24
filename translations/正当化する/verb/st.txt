@@ -1,1 +1,2 @@
-["ho lokafatsa","ho nepahetsa"]
+ho lokafatsa
+ho nepahetsa

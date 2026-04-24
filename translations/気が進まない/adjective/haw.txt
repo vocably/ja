@@ -1,1 +1,2 @@
-["kolohe","palaka"]
+kolohe
+palaka

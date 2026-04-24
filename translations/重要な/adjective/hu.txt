@@ -1,1 +1,2 @@
-["fontos","lényeges"]
+fontos
+lényeges

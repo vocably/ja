@@ -1,1 +1,3 @@
-["utamane","istimewa","khusus"]
+utamane
+istimewa
+khusus

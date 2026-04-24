@@ -1,1 +1,3 @@
-["tua","am y rhan fwyaf","o gwbl"]
+tua
+am y rhan fwyaf
+o gwbl

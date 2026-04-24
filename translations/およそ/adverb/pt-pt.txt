@@ -1,1 +1,3 @@
-["aproximadamente","cerca de","de todo"]
+aproximadamente
+cerca de
+de todo

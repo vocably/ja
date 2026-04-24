@@ -1,1 +1,3 @@
-["kushtoj","ofertë","jap"]
+kushtoj
+ofertë
+jap

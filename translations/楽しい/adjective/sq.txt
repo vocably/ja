@@ -1,1 +1,2 @@
-["i lumtur","gazmor"]
+i lumtur
+gazmor

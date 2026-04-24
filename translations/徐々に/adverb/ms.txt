@@ -1,1 +1,3 @@
-["secara beransur-ansur","secara berperingkat","perlahan-lahan"]
+secara beransur-ansur
+secara berperingkat
+perlahan-lahan

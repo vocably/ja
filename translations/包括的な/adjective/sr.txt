@@ -1,1 +1,2 @@
-["sveobuhvatan","obuhvatan"]
+sveobuhvatan
+obuhvatan

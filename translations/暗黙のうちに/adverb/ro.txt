@@ -1,1 +1,3 @@
-["tacit","implicit","subînțeles"]
+tacit
+implicit
+subînțeles

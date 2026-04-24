@@ -1,1 +1,3 @@
-["negligir","descuidar","ser mandrós"]
+negligir
+descuidar
+ser mandrós

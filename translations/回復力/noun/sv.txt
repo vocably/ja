@@ -1,1 +1,3 @@
-["återhämtningsförmåga","resiliens","elasticitet"]
+återhämtningsförmåga
+resiliens
+elasticitet

@@ -1,1 +1,3 @@
-["di cih de","yekser","niha"]
+di cih de
+yekser
+niha

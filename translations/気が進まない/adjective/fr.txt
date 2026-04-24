@@ -1,1 +1,2 @@
-["réticent","peu enthousiaste"]
+réticent
+peu enthousiaste

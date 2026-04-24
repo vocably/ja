@@ -1,1 +1,2 @@
-["mai muhimmanci","mai nauyi"]
+mai muhimmanci
+mai nauyi

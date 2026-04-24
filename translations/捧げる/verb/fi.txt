@@ -1,1 +1,3 @@
-["omistaa","pyhittää","lahjoittaa"]
+omistaa
+pyhittää
+lahjoittaa

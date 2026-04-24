@@ -1,1 +1,3 @@
-["aýratyn-da","esasan-da","hususan-da"]
+aýratyn-da
+esasan-da
+hususan-da

@@ -1,1 +1,3 @@
-["graddol","yn raddol","fesul tipyn"]
+graddol
+yn raddol
+fesul tipyn

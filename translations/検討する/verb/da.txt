@@ -1,1 +1,2 @@
-["overveje","gennemgå"]
+overveje
+gennemgå

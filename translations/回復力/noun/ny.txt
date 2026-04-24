@@ -1,1 +1,3 @@
-["Kulimba mtima","Kukhoza kubwerera","Kusinthika"]
+Kulimba mtima
+Kukhoza kubwerera
+Kusinthika

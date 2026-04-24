@@ -1,1 +1,3 @@
-["butle-butle","ka bonolo","ka ho thella"]
+butle-butle
+ka bonolo
+ka ho thella

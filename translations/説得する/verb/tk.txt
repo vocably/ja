@@ -1,1 +1,2 @@
-["ikna etmek","ynandyrmak"]
+ikna etmek
+ynandyrmak

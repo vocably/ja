@@ -1,1 +1,2 @@
-["eşik","eşik değeri"]
+eşik
+eşik değeri

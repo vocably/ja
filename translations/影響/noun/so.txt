@@ -1,1 +1,2 @@
-["Saameyn","Abaalmarin"]
+Saameyn
+Abaalmarin

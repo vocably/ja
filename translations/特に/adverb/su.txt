@@ -1,1 +1,3 @@
-["utamana","hususna","istimewa"]
+utamana
+hususna
+istimewa

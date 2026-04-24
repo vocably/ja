@@ -1,1 +1,3 @@
-["ubushobozi bwo kugarura ubuzima","ubushobozi bwo kugarura imbaraga","ubushobozi bwo kugarura ishusho"]
+ubushobozi bwo kugarura ubuzima
+ubushobozi bwo kugarura imbaraga
+ubushobozi bwo kugarura ishusho

@@ -1,1 +1,3 @@
-["speċjalment","partikolarment","b'mod partikolari"]
+speċjalment
+partikolarment
+b'mod partikolari

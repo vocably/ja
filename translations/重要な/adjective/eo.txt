@@ -1,1 +1,2 @@
-["grava","peza"]
+grava
+peza

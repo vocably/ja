@@ -1,1 +1,3 @@
-["fersaakje","neilitte","ferslompe"]
+fersaakje
+neilitte
+ferslompe

@@ -1,1 +1,2 @@
-["dözümlü","əzmli"]
+dözümlü
+əzmli

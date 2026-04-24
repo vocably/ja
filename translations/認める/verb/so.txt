@@ -1,1 +1,4 @@
-["Aqbal","Ogolaansho","Xaqiiji","Garwaaqso"]
+Aqbal
+Ogolaansho
+Xaqiiji
+Garwaaqso

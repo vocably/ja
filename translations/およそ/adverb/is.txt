@@ -1,1 +1,3 @@
-["um það bil","nokkurn veginn","alls ekki"]
+um það bil
+nokkurn veginn
+alls ekki

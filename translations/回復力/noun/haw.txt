@@ -1,1 +1,3 @@
-["hoʻōla","ola hou","kuʻi"]
+hoʻōla
+ola hou
+kuʻi

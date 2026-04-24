@@ -1,1 +1,3 @@
-["faasolosolo","malie malie","lemu lemu"]
+faasolosolo
+malie malie
+lemu lemu

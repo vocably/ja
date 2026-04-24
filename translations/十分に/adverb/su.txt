@@ -1,1 +1,2 @@
-["Cukup","Sampurna"]
+Cukup
+Sampurna

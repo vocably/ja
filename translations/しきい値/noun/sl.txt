@@ -1,1 +1,2 @@
-["prag","mejna vrednost"]
+prag
+mejna vrednost

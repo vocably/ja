@@ -1,1 +1,3 @@
-["yaklaşık","aşağı yukarı","neredeyse"]
+yaklaşık
+aşağı yukarı
+neredeyse

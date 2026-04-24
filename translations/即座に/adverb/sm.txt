@@ -1,1 +1,3 @@
-["i le taimi lava lena","vave","loa"]
+i le taimi lava lena
+vave
+loa

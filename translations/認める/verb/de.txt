@@ -1,1 +1,4 @@
-["anerkennen","zugeben","bestätigen","genehmigen"]
+anerkennen
+zugeben
+bestätigen
+genehmigen

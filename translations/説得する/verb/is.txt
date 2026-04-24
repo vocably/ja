@@ -1,1 +1,2 @@
-["tala um","útskýra"]
+tala um
+útskýra

@@ -1,1 +1,3 @@
-["tusa","pe tusa","toetoe"]
+tusa
+pe tusa
+toetoe

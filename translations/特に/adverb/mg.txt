@@ -1,1 +1,3 @@
-["indrindra","manokana","voatokana"]
+indrindra
+manokana
+voatokana

@@ -1,1 +1,3 @@
-["stiltiende","underforstået","implicit"]
+stiltiende
+underforstået
+implicit

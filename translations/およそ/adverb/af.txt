@@ -1,1 +1,3 @@
-["ongeveer","omtrent","glad nie"]
+ongeveer
+omtrent
+glad nie

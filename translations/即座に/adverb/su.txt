@@ -1,1 +1,3 @@
-["harita keneh","langsung","buruburu"]
+harita keneh
+langsung
+buruburu

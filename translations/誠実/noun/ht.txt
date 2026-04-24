@@ -1,1 +1,2 @@
-["onèt","senserite"]
+onèt
+senserite

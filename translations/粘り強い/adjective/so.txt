@@ -1,1 +1,2 @@
-["Adkaysi","Dulqaad"]
+Adkaysi
+Dulqaad

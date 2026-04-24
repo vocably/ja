@@ -1,1 +1,2 @@
-["divertido","agradable"]
+divertido
+agradable

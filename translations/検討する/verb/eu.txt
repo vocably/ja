@@ -1,1 +1,2 @@
-["aztertu","ikertu"]
+aztertu
+ikertu

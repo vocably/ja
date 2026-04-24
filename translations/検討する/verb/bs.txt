@@ -1,1 +1,2 @@
-["razmotriti","ispitati"]
+razmotriti
+ispitati

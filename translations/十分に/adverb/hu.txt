@@ -1,1 +1,2 @@
-["eléggé","meglehetősen"]
+eléggé
+meglehetősen

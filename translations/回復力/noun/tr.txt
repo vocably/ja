@@ -1,1 +1,3 @@
-["esneklik","dayanıklılık","iyileşme gücü"]
+esneklik
+dayanıklılık
+iyileşme gücü

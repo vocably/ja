@@ -1,1 +1,4 @@
-["kubvuma","kutendera","kupa mvumo","kusimbisa"]
+kubvuma
+kutendera
+kupa mvumo
+kusimbisa

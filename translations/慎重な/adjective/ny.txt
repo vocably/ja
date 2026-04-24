@@ -1,1 +1,2 @@
-["kusamala","chenjera"]
+kusamala
+chenjera

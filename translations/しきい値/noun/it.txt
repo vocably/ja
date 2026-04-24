@@ -1,1 +1,2 @@
-["soglia","valore di soglia"]
+soglia
+valore di soglia

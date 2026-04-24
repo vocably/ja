@@ -1,1 +1,3 @@
-["le tautala","le faaleo","le faailoa"]
+le tautala
+le faaleo
+le faailoa

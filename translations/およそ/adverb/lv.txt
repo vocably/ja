@@ -1,1 +1,3 @@
-["apmēram","aptuveni","vispār"]
+apmēram
+aptuveni
+vispār

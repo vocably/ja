@@ -1,1 +1,3 @@
-["miandalana","tsikelikely","mora miadana"]
+miandalana
+tsikelikely
+mora miadana

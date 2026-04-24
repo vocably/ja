@@ -1,1 +1,3 @@
-["pühendama","ohverdama","kinkima"]
+pühendama
+ohverdama
+kinkima

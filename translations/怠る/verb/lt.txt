@@ -1,1 +1,3 @@
-["apleisti","tingėti","nepaisyti"]
+apleisti
+tingėti
+nepaisyti

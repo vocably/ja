@@ -1,1 +1,3 @@
-["aberthu","cyflwyno","offrymu"]
+aberthu
+cyflwyno
+offrymu

@@ -1,1 +1,3 @@
-["zanedbávat","zlenivět","nedbat"]
+zanedbávat
+zlenivět
+nedbat

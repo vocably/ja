@@ -1,1 +1,2 @@
-["lykkelig","fornøyd"]
+lykkelig
+fornøyd

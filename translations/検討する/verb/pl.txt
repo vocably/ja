@@ -1,1 +1,2 @@
-["rozważać","analizować"]
+rozważać
+analizować

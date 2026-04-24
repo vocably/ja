@@ -1,1 +1,3 @@
-["motstandskraft","robusthet","resiliens"]
+motstandskraft
+robusthet
+resiliens

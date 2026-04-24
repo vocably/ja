@@ -1,1 +1,2 @@
-["treibhdhireach","onarach"]
+treibhdhireach
+onarach

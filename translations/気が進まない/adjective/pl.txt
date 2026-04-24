@@ -1,1 +1,2 @@
-["niechętny","nie w smak"]
+niechętny
+nie w smak

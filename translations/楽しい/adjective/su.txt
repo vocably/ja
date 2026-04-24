@@ -1,1 +1,2 @@
-["bungah","senang"]
+bungah
+senang

@@ -1,1 +1,2 @@
-["jujur","tulus"]
+jujur
+tulus

@@ -1,1 +1,3 @@
-["gu sònraichte","gu h-àraidh","os cionn gach nì"]
+gu sònraichte
+gu h-àraidh
+os cionn gach nì

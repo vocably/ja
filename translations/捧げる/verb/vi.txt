@@ -1,1 +1,3 @@
-["cúng dường","dâng lên","hiến dâng"]
+cúng dường
+dâng lên
+hiến dâng

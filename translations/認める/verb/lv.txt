@@ -1,1 +1,4 @@
-["atzīt","apstiprināt","pieņemt","atļaut"]
+atzīt
+apstiprināt
+pieņemt
+atļaut

@@ -1,1 +1,2 @@
-["keng qamrovli","kompleks"]
+keng qamrovli
+kompleks

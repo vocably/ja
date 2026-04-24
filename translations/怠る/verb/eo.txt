@@ -1,1 +1,3 @@
-["negligi","malatenti","forlasi"]
+negligi
+malatenti
+forlasi

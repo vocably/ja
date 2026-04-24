@@ -1,1 +1,2 @@
-["whaka tika","whaka pono"]
+whaka tika
+whaka pono

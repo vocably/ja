@@ -1,1 +1,2 @@
-["kujabula","ukuthokoza"]
+kujabula
+ukuthokoza

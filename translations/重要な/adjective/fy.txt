@@ -1,1 +1,2 @@
-["wichtich","earnstich"]
+wichtich
+earnstich

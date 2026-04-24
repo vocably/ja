@@ -1,1 +1,3 @@
-["descuidar","ser negligente","holgazanear"]
+descuidar
+ser negligente
+holgazanear

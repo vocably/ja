@@ -1,1 +1,2 @@
-["rewa kirin","rastderxistin"]
+rewa kirin
+rastderxistin

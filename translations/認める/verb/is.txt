@@ -1,1 +1,4 @@
-["viðurkenna","samþykkja","leyfa","staðfesta"]
+viðurkenna
+samþykkja
+leyfa
+staðfesta

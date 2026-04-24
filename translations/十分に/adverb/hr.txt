@@ -1,1 +1,2 @@
-["dovoljno","prilično"]
+dovoljno
+prilično

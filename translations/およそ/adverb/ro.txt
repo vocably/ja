@@ -1,1 +1,3 @@
-["aproximativ","cam","deloc"]
+aproximativ
+cam
+deloc

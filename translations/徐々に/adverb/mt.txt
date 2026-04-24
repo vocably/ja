@@ -1,1 +1,3 @@
-["bil-mod il-mod","gradwalment","ftit ftit"]
+bil-mod il-mod
+gradwalment
+ftit ftit

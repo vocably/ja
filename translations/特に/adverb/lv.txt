@@ -1,1 +1,3 @@
-["īpaši","it īpaši","sevišķi"]
+īpaši
+it īpaši
+sevišķi

@@ -1,1 +1,3 @@
-["Si tartiib ah","Tartiib tartiib","Aayar aayar"]
+Si tartiib ah
+Tartiib tartiib
+Aayar aayar

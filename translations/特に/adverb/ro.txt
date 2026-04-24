@@ -1,1 +1,3 @@
-["în special","mai ales","în mod deosebit"]
+în special
+mai ales
+în mod deosebit

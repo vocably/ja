@@ -1,1 +1,3 @@
-["timpeall","thart ar","ar chor ar bith"]
+timpeall
+thart ar
+ar chor ar bith

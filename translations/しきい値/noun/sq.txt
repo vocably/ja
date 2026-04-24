@@ -1,1 +1,2 @@
-["pragu","kufiri"]
+pragu
+kufiri

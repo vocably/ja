@@ -1,1 +1,2 @@
-["enye uvumilivu","imara"]
+enye uvumilivu
+imara

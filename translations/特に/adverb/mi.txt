@@ -1,1 +1,3 @@
-["rawa","ake","anake"]
+rawa
+ake
+anake

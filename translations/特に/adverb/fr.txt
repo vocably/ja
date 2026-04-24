@@ -1,1 +1,3 @@
-["particulièrement","surtout","spécialement"]
+particulièrement
+surtout
+spécialement

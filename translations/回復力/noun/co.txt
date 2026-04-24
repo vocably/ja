@@ -1,1 +1,3 @@
-["resilienza","elasticità","ripresa"]
+resilienza
+elasticità
+ripresa

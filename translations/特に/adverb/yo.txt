@@ -1,1 +1,3 @@
-["paapaa","ni pataki","ju gbogbo re lo"]
+paapaa
+ni pataki
+ju gbogbo re lo

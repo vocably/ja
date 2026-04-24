@@ -1,1 +1,2 @@
-["thabo","nyakallo"]
+thabo
+nyakallo

@@ -1,1 +1,3 @@
-["apie","maždaug","iš viso"]
+apie
+maždaug
+iš viso

@@ -1,1 +1,4 @@
-["ngakoni","ngidinake","ngesahake","ndelok"]
+ngakoni
+ngidinake
+ngesahake
+ndelok

@@ -1,1 +1,2 @@
-["mpana","jumla"]
+mpana
+jumla

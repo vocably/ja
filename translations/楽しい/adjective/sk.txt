@@ -1,1 +1,2 @@
-["zábavný","príjemný"]
+zábavný
+príjemný

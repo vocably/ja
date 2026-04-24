@@ -1,1 +1,2 @@
-["khí chất","tính cách"]
+khí chất
+tính cách

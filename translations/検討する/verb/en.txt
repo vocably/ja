@@ -1,1 +1,2 @@
-["examine","consider"]
+examine
+consider

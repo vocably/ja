@@ -1,1 +1,4 @@
-["thừa nhận","công nhận","cho phép","xác nhận"]
+thừa nhận
+công nhận
+cho phép
+xác nhận

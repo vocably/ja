@@ -1,1 +1,3 @@
-["postopoma","počasi","zmerno"]
+postopoma
+počasi
+zmerno

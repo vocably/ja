@@ -1,1 +1,3 @@
-["huna","malū","kūnoa"]
+huna
+malū
+kūnoa

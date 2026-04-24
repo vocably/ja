@@ -1,1 +1,4 @@
-["erkennen","ugesinn","accordéieren","gesinn"]
+erkennen
+ugesinn
+accordéieren
+gesinn

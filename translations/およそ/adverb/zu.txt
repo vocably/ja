@@ -1,1 +1,3 @@
-["cishe","ngokuyisisekelo","nakancane"]
+cishe
+ngokuyisisekelo
+nakancane

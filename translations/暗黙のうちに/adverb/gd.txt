@@ -1,1 +1,3 @@
-["gu sàmhach","gu neo-fhaicsinneach","gu neo-labhairteach"]
+gu sàmhach
+gu neo-fhaicsinneach
+gu neo-labhairteach

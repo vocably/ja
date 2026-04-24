@@ -1,1 +1,3 @@
-["phantse","malunga","konke"]
+phantse
+malunga
+konke

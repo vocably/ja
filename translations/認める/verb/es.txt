@@ -1,1 +1,4 @@
-["aceptar","reconocer","admitir","aprobar"]
+aceptar
+reconocer
+admitir
+aprobar

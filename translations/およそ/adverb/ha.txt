@@ -1,1 +1,3 @@
-["kusan","gaba ɗaya","jimla"]
+kusan
+gaba ɗaya
+jimla

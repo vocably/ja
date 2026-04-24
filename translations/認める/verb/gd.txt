@@ -1,1 +1,4 @@
-["gabhail","aithneachadh","ceadachadh","faicinn"]
+gabhail
+aithneachadh
+ceadachadh
+faicinn

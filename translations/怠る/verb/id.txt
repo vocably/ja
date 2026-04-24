@@ -1,1 +1,3 @@
-["mengabaikan","melalaikan","bermalas-malasan"]
+mengabaikan
+melalaikan
+bermalas-malasan

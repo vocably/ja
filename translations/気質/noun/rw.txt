@@ -1,1 +1,2 @@
-["imiterere","umuco"]
+imiterere
+umuco

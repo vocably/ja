@@ -1,1 +1,2 @@
-["renuente","desganado"]
+renuente
+desganado

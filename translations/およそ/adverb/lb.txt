@@ -1,1 +1,3 @@
-["ongeféier","bal","guer net"]
+ongeféier
+bal
+guer net

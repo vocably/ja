@@ -1,1 +1,2 @@
-["kwisobanura","gutsindishiriza"]
+kwisobanura
+gutsindishiriza

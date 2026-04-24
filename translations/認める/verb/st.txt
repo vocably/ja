@@ -1,1 +1,4 @@
-["amohela","lumela","fa tumello","bona"]
+amohela
+lumela
+fa tumello
+bona

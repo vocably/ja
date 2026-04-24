@@ -1,1 +1,3 @@
-["esgeuluso","diystyru","llacio"]
+esgeuluso
+diystyru
+llacio

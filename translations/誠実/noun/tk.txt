@@ -1,1 +1,2 @@
-["dogruçyllyk","webaly"]
+dogruçyllyk
+webaly

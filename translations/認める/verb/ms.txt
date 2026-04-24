@@ -1,1 +1,4 @@
-["mengakui","menerima","membenarkan","mengesahkan"]
+mengakui
+menerima
+membenarkan
+mengesahkan

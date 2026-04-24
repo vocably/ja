@@ -1,1 +1,3 @@
-["pouco a pouco","gradualmente","paseniño"]
+pouco a pouco
+gradualmente
+paseniño

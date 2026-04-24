@@ -1,1 +1,3 @@
-["ayniqsa","xususan","alohida"]
+ayniqsa
+xususan
+alohida

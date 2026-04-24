@@ -1,1 +1,2 @@
-["bohlokwa","thata"]
+bohlokwa
+thata

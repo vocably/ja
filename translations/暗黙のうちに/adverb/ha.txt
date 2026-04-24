@@ -1,1 +1,3 @@
-["a hankali","cikin shiru","ba tare da an fada ba"]
+a hankali
+cikin shiru
+ba tare da an fada ba

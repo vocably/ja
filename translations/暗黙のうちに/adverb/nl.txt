@@ -1,1 +1,3 @@
-["stilzwijgend","impliciet","onuitgesproken"]
+stilzwijgend
+impliciet
+onuitgesproken

@@ -1,1 +1,2 @@
-["kubalulekile","nzima"]
+kubalulekile
+nzima

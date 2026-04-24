@@ -1,1 +1,3 @@
-["negligenciar","descurar","ser preguiçoso"]
+negligenciar
+descurar
+ser preguiçoso

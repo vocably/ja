@@ -1,1 +1,2 @@
-["limiar","valor límite"]
+limiar
+valor límite

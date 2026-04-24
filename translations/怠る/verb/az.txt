@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","səhlənkarlıq etmək","tənbəllik etmək"]
+laqeyd yanaşmaq
+səhlənkarlıq etmək
+tənbəllik etmək

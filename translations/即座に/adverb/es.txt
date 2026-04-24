@@ -1,1 +1,3 @@
-["inmediatamente","al instante","en el acto"]
+inmediatamente
+al instante
+en el acto

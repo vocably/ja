@@ -1,1 +1,3 @@
-["mempersembahkan","menyerahkan","mengangkat"]
+mempersembahkan
+menyerahkan
+mengangkat

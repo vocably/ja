@@ -1,1 +1,3 @@
-["vernoléissegen","faul sinn","net oppassen"]
+vernoléissegen
+faul sinn
+net oppassen

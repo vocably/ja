@@ -1,1 +1,3 @@
-["takriban","kuhusu","kabisa"]
+takriban
+kuhusu
+kabisa

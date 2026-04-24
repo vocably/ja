@@ -1,1 +1,4 @@
-["whakaae","tuku","kite","whakaū"]
+whakaae
+tuku
+kite
+whakaū

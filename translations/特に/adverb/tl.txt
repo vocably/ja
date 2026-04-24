@@ -1,1 +1,3 @@
-["lalo na","lalung-lalo na","partikular"]
+lalo na
+lalung-lalo na
+partikular

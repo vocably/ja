@@ -1,1 +1,2 @@
-["ko'rib chiqmoq","o'rganmoq"]
+ko'rib chiqmoq
+o'rganmoq

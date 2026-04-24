@@ -1,1 +1,2 @@
-["hauska","nautittava"]
+hauska
+nautittava

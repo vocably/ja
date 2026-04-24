@@ -1,1 +1,3 @@
-["ýaltanmak","üns bermezlik","goýbermek"]
+ýaltanmak
+üns bermezlik
+goýbermek

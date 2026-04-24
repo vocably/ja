@@ -1,1 +1,3 @@
-["kira-kira","lebih kurang","sama sekali"]
+kira-kira
+lebih kurang
+sama sekali

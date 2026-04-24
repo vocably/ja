@@ -1,1 +1,2 @@
-["tabah","cekalku"]
+tabah
+cekalku

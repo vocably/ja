@@ -1,1 +1,3 @@
-["øjeblikkeligt","straks","på stedet"]
+øjeblikkeligt
+straks
+på stedet

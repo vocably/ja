@@ -1,1 +1,2 @@
-["araşdyrmak","seljermek"]
+araşdyrmak
+seljermek

@@ -1,1 +1,3 @@
-["rezilyans","kapasite pou refè","elastisite"]
+rezilyans
+kapasite pou refè
+elastisite

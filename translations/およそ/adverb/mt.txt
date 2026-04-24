@@ -1,1 +1,3 @@
-["madwar","bejn wieħed u ieħor","assolutament"]
+madwar
+bejn wieħed u ieħor
+assolutament

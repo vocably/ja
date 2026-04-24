@@ -1,1 +1,3 @@
-["kakuatan","daya","pulih"]
+kakuatan
+daya
+pulih

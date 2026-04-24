@@ -1,1 +1,3 @@
-["about","roughly","at all"]
+about
+roughly
+at all

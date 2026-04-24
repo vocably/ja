@@ -1,1 +1,2 @@
-["kè kontan","jwa"]
+kè kontan
+jwa

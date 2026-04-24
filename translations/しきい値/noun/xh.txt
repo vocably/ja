@@ -1,1 +1,2 @@
-["umda","inqanaba"]
+umda
+inqanaba

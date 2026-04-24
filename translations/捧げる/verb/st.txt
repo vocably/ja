@@ -1,1 +1,3 @@
-["ho nyehela","ho fana","ho neela"]
+ho nyehela
+ho fana
+ho neela

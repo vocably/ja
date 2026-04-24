@@ -1,1 +1,2 @@
-["muhim","jiddiy"]
+muhim
+jiddiy

@@ -1,1 +1,3 @@
-["résilience","capacité de récupération","élasticité"]
+résilience
+capacité de récupération
+élasticité

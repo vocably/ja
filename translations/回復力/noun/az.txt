@@ -1,1 +1,3 @@
-["sağalma","bərpa","elastiklik"]
+sağalma
+bərpa
+elastiklik

@@ -1,1 +1,2 @@
-["oanhâldend","taai"]
+oanhâldend
+taai

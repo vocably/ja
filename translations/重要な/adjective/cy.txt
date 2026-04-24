@@ -1,1 +1,2 @@
-["pwysig","hanfodol"]
+pwysig
+hanfodol

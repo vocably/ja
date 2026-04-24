@@ -1,1 +1,3 @@
-["rezistokapablo","resaniĝemo","elasteco"]
+rezistokapablo
+resaniĝemo
+elasteco

@@ -1,1 +1,3 @@
-["veral","spesiaal","besonder"]
+veral
+spesiaal
+besonder

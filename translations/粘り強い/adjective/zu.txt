@@ -1,1 +1,2 @@
-["ukubambelela","ukuphikelela"]
+ukubambelela
+ukuphikelela

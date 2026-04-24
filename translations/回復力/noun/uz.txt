@@ -1,1 +1,3 @@
-["tiklanish","qayta tiklanish","elastiklik"]
+tiklanish
+qayta tiklanish
+elastiklik

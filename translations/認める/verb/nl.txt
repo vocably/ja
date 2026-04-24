@@ -1,1 +1,4 @@
-["erkennen","toestaan","bevestigen","waarderen"]
+erkennen
+toestaan
+bevestigen
+waarderen

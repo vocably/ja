@@ -1,1 +1,3 @@
-["Isla markiiba","Degdeg","markiiba"]
+Isla markiiba
+Degdeg
+markiiba

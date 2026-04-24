@@ -1,1 +1,2 @@
-["qat'iyatli","sabotli"]
+qat'iyatli
+sabotli

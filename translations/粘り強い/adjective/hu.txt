@@ -1,1 +1,3 @@
-["kitart\nó","állhatatos"]
+kitart
+ó
+állhatatos

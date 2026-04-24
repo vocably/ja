@@ -1,1 +1,2 @@
-["komprensiv","inklussiv"]
+komprensiv
+inklussiv

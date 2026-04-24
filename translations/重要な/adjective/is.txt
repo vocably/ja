@@ -1,1 +1,2 @@
-["mikilvægur","þýðingarmikill"]
+mikilvægur
+þýðingarmikill

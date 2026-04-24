@@ -1,1 +1,3 @@
-["strax","án tafar","þegar í stað"]
+strax
+án tafar
+þegar í stað

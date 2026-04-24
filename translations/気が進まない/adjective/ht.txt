@@ -1,1 +1,2 @@
-["pa anvi","pa chofe"]
+pa anvi
+pa chofe

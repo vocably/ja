@@ -1,1 +1,2 @@
-["genôch","ryklik"]
+genôch
+ryklik

@@ -1,1 +1,3 @@
-["négliger","manquer à","être paresseux"]
+négliger
+manquer à
+être paresseux

@@ -1,1 +1,3 @@
-["epäsuorasti","implisiittisesti","sanattomasti"]
+epäsuorasti
+implisiittisesti
+sanattomasti

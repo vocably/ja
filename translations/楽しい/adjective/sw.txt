@@ -1,1 +1,2 @@
-["furaha","raha"]
+furaha
+raha

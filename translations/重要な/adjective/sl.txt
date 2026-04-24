@@ -1,1 +1,2 @@
-["pomemben","bistven"]
+pomemben
+bistven

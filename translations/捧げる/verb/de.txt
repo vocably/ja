@@ -1,1 +1,3 @@
-["opfern","darbringen","widmen"]
+opfern
+darbringen
+widmen

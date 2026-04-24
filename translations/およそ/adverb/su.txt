@@ -1,1 +1,3 @@
-["kira-kira","kurang leuwih","ampir"]
+kira-kira
+kurang leuwih
+ampir

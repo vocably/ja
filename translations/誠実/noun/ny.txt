@@ -1,1 +1,2 @@
-["Kukhulupirika","Choonadi"]
+Kukhulupirika
+Choonadi

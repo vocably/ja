@@ -1,1 +1,3 @@
-["asi","přibližně","zhruba"]
+asi
+přibližně
+zhruba

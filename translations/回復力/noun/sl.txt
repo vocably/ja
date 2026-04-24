@@ -1,1 +1,3 @@
-["odpornost","elastičnost","regeneracija"]
+odpornost
+elastičnost
+regeneracija

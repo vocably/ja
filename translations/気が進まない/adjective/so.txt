@@ -1,1 +1,2 @@
-["cago jiid","hawl yari"]
+cago jiid
+hawl yari

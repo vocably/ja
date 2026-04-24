@@ -1,1 +1,3 @@
-["go ciúin","gan focal","gan labhairt"]
+go ciúin
+gan focal
+gan labhairt

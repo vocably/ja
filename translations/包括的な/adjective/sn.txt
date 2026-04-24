@@ -1,1 +1,2 @@
-["yakazara","hupamhi"]
+yakazara
+hupamhi

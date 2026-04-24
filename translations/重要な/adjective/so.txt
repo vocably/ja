@@ -1,1 +1,2 @@
-["muhiim ah","culus"]
+muhiim ah
+culus

@@ -1,1 +1,3 @@
-["versuim","verwaarloos","nalaat"]
+versuim
+verwaarloos
+nalaat

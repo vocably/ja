@@ -1,1 +1,3 @@
-["fa'atamala","fa'agaoi","tu'unanu"]
+fa'atamala
+fa'agaoi
+tu'unanu

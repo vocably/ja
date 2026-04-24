@@ -1,1 +1,3 @@
-["otprilike","uglavnom","uopšte"]
+otprilike
+uglavnom
+uopšte

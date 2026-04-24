@@ -1,1 +1,3 @@
-["dayacin","ka gaabiso","fulin la'aan"]
+dayacin
+ka gaabiso
+fulin la'aan

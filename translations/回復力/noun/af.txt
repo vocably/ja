@@ -1,1 +1,3 @@
-["veerkragtigheid","herstelvermoë","elastisiteit"]
+veerkragtigheid
+herstelvermoë
+elastisiteit

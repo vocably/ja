@@ -1,1 +1,3 @@
-["odolnosť","pružnosť","schopnosť zotaviť sa"]
+odolnosť
+pružnosť
+schopnosť zotaviť sa

@@ -1,1 +1,3 @@
-["fere","nipa","patapata"]
+fere
+nipa
+patapata

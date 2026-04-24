@@ -1,1 +1,3 @@
-["tácitamente","implícitamente","en silencio"]
+tácitamente
+implícitamente
+en silencio

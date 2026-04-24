@@ -1,1 +1,3 @@
-["nyaos","ngaturake","masrahake"]
+nyaos
+ngaturake
+masrahake

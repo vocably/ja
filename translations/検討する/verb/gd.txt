@@ -1,1 +1,2 @@
-["beachdaich","thoir beachd"]
+beachdaich
+thoir beachd

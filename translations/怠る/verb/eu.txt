@@ -1,1 +1,3 @@
-["alferkerian ibili","utzikeriaz jokatu","arduragabekeriaz jokatu"]
+alferkerian ibili
+utzikeriaz jokatu
+arduragabekeriaz jokatu

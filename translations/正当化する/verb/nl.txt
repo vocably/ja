@@ -1,1 +1,2 @@
-["rechtvaardigen","goedpraten"]
+rechtvaardigen
+goedpraten

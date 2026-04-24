@@ -1,1 +1,3 @@
-["molče","tiho","implicitno"]
+molče
+tiho
+implicitno
