@@ -1,0 +1,5 @@
+open
+empty
+make
+leave
+make a hole

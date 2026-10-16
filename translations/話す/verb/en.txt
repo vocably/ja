@@ -1,0 +1,3 @@
+speak
+talk
+tell

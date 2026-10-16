@@ -1,0 +1,4 @@
+recoger
+seleccionar
+aceptar
+cazar

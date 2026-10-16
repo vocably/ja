@@ -1,0 +1,5 @@
+drink
+take
+smoke
+swallow
+believe

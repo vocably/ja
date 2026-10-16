@@ -1,0 +1,4 @@
+country
+state
+nation
+homeland

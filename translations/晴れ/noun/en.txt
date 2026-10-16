@@ -1,0 +1,3 @@
+clear weather
+fine weather
+public occasion

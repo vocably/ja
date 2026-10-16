@@ -1,0 +1,4 @@
+clean
+beautiful
+pretty
+pure

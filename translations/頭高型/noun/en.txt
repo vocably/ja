@@ -1,0 +1,2 @@
+head-high type
+initial-high type

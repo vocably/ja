@@ -1,0 +1,7 @@
+Dose
+Blechdose
+Konservendose
+Büchse
+Kanister
+Behälter
+Gefäß

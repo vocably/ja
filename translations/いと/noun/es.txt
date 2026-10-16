@@ -1,0 +1,4 @@
+hilo
+hebra
+fibra
+cuerda

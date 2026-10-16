@@ -1,0 +1,4 @@
+platform
+home
+homepage
+home plate

@@ -1,0 +1,3 @@
+interrupção
+bloqueio
+isolamento

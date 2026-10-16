@@ -1,0 +1,4 @@
+pagar
+quitar
+prestar
+desechar

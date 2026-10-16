@@ -1,0 +1,4 @@
+move
+operate
+affect
+implement

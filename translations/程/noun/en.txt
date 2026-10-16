@@ -1,0 +1,4 @@
+degree
+extent
+about
+standard

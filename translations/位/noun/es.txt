@@ -1,0 +1,4 @@
+posición
+rango
+lugar
+dignidad

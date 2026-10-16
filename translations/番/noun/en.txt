@@ -1,0 +1,4 @@
+turn
+guard
+duty
+number

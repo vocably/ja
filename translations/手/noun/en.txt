@@ -1,0 +1,5 @@
+hand
+skill
+help
+way
+style
